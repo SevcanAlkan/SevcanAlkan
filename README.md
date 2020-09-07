@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I will write something here as soon as possible 😅
 
 <!--
 **SevcanAlkan/SevcanAlkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
