@@ -21,8 +21,6 @@ SimpleChat-WebAPI | [![GitHub issues](https://img.shields.io/github/issues/Simpl
 SimpleChat-Frontend | [![GitHub issues](https://img.shields.io/github/issues/SimpleChatApp/SimpleChat-Frontend)](https://github.com/SimpleChatApp/SimpleChat-Frontend/issues)
 SimpleChat-Android | [![GitHub issues](https://img.shields.io/github/issues/SimpleChatApp/SimpleChat-Android)](https://github.com/SimpleChatApp/SimpleChat-Android/issues)
 
-<br />
-
 ## My tech stack
 * ASP.NET Core (WebAPI and MVC)
 * JavaScript & Typescript (Angular)
@@ -30,8 +28,6 @@ SimpleChat-Android | [![GitHub issues](https://img.shields.io/github/issues/Simp
 * Microsoft Azure
 * Docker
 * RabbitMQ
-
-<br />
 
 ## I'm currently learning
 
@@ -44,8 +40,6 @@ My Learning Progress: [<img height="15" width="15" src="https://cdn.jsdelivr.net
 
 Algorithm Practice: [<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" />][hackerrank]
 
-<br />
-
 ## 🚴‍♀️ My hobbies
 
 - Cycling & Running
@@ -56,8 +50,6 @@ Algorithm Practice: [<img height="15" width="15" src="https://cdn.jsdelivr.net/n
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/strava.svg" />][strava]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/garmin.svg" />][garmin]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/goodreads.svg" />][goodreads]
-
-<br />
 
 ## 💻 My work setup
 
@@ -91,7 +83,6 @@ Algorithm Practice: [<img height="15" width="15" src="https://cdn.jsdelivr.net/n
 - Communication: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftteams.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/discord.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/whatsapp.
 svg"/>
 
-<br />
 
 ## 💬 Reach out to me
 
@@ -100,8 +91,6 @@ svg"/>
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/messenger.svg" />][facebook]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/skype.svg" />][skype]
-
-<br />
 
 ## 🗽 Stats
 
