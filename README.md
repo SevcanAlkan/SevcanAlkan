@@ -53,36 +53,99 @@ Algorithm Practice: [<img height="15" width="15" src="https://cdn.jsdelivr.net/n
 
 ## 💻 My work setup
 
-### Hardware
-- Computer: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/hp.svg"/> EliteBook 850 G5
-    - CPU: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/intel.svg"/> Core i7-8550U
-    - GPU: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/intel.svg"/> HD 620 & <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/amd.svg"/> Radeon RX 540
-    - RAM: 32GB DDR4
-    - SSD: 1TB SSD NVMe (PM981)
-- Dock Station: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/hp.svg"/> UltraSlim Docking Station
-- External Monitors: 2x Asus Designo MX279H
-- Mouse: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/logitech.svg"/> G502 & <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/logitech.svg"/> MX Master
-- Headphone: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/sennheiser.svg"/> MOMENTUM In-Ear
-
-### Software
-
-- Operating System: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/windows.svg"/>
-    - On WSL 2: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/ubuntu.svg"/>
-- Security: <img height="15" width="65" src="https://img.shields.io/badge/Eset-Nod32-green?style=flat-square"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/1password.svg"/>
-- Music: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/tidal.svg"/>
-- Source Control: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/github.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/git.svg"/>
-- Command Line: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/powershell.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/windowsterminal.svg"/>
-- IDE & Text Editor: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/rider.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/visualstudiocode.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/azuredataexplorer.svg"/>
-- SQL Server: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftsqlserver.svg"/>
-- Prototyping Tool: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/adobexd.svg"/>
-- Cloud Storage: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftonedrive.svg"/>
-- Web Browser: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/googlechrome.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftedge.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/opera.svg"/>
-- Recording & Streaming Tool: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/obsstudio.svg"/>
-- Development Tools: <img height="15" width="65" src="https://img.shields.io/badge/Telerik%20-Fiddler-green?style=flat-square"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/postman.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/docker.svg"/> <img height="15" width="55" src="https://img.shields.io/badge/HyperV-blue?style=flat-square"/>
-- Office: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftoffice.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/notion.svg"/> <img height="15" width="65" src="https://img.shields.io/badge/Amazon%20-Kindle-green?style=flat-square"/>
-- Communication: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftteams.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/discord.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/whatsapp.
+<table style="border:hidden;">
+ <tr style="border:hidden;">
+    <td><b style="font-size:15px">Hardware</b></td>
+    <td><b style="font-size:15px">Software</b></td>
+ </tr>
+ <tr>
+    <td>
+        <ul>
+            <li>
+                Computer: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/hp.svg"/> EliteBook 850 G5
+                <ul>
+                    <li>
+                        CPU: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/intel.svg"/> Core i7-8550U
+                    </li>
+                    <li>
+                        GPU: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/intel.svg"/> HD 620 & <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/amd.svg"/> Radeon RX 540
+                    </li>
+                    <li>
+                        RAM: 32GB DDR4
+                    </li>
+                    <li>
+                        SSD: 1TB SSD NVMe (PM981)
+                    </li>
+                </ul>
+            </li>
+            <li>
+                Dock Station: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/hp.svg"/> UltraSlim Docking Station
+            </li>
+            <li>
+                External Monitors: 2x Asus Designo MX279H
+            </li>
+            <li>
+                Mouse: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/logitech.svg"/> G502 & <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/logitech.svg"/> MX Master
+            </li>
+            <li>
+                Headphone: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/sennheiser.svg"/> MOMENTUM In-Ear
+            </li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>
+                Operating System: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/windows.svg"/>
+                <ul>
+                    <li>
+                        On WSL 2: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/ubuntu.svg"/>
+                    </li>
+                </ul>
+            </li>
+            <li>
+            Security: <img height="15" width="65" src="https://img.shields.io/badge/Eset-Nod32-green?style=flat-square"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/1password.svg"/>
+            </li>
+            <li>
+            Music: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/tidal.svg"/>
+            </li>
+            <li>
+            Source Control: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/github.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/git.svg"/>
+            </li>
+            <li>
+            Command Line: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/powershell.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/windowsterminal.svg"/>
+            </li>
+            <li>
+            IDE & Text Editor: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/rider.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/visualstudiocode.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/azuredataexplorer.svg"/>
+            </li>
+            <li>
+            SQL Server: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftsqlserver.svg"/>
+            </li>
+            <li>
+            Prototyping Tool: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/adobexd.svg"/>
+            </li>
+            <li>
+            Cloud Storage: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftonedrive.svg"/>
+            </li>
+            <li>
+            Web Browser: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/googlechrome.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftedge.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/opera.svg"/>
+            </li>
+            <li>
+            Recording & Streaming Tool: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/obsstudio.svg"/>
+            </li>
+            <li>
+            Development Tools: <img height="15" width="65" src="https://img.shields.io/badge/Telerik%20-Fiddler-green?style=flat-square"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/postman.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/docker.svg"/> <img height="15" width="55" src="https://img.shields.io/badge/HyperV-blue?style=flat-square"/>
+            </li>
+            <li>
+            Office: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftoffice.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/notion.svg"/> <img height="15" width="65" src="https://img.shields.io/badge/Amazon%20-Kindle-green?style=flat-square"/>
+            </li>
+            <li>
+            Communication: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftteams.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/discord.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/whatsapp.
 svg"/>
-
+            </li>
+        </ul>
+    </td>
+ </tr>
+</table>
 
 ## 💬 Reach out to me
 
