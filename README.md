@@ -7,7 +7,6 @@
 
 I'm looking a small project to collaborate on 🧐
 
-<br />
 
 ## I'm currently working on
  <a href="https://github.com/SimpleChatApp" target="_blank">
@@ -49,33 +48,10 @@ Algorithm Practice: [<img height="15" width="15" src="https://cdn.jsdelivr.net/n
 
 ## 🚴‍♀️ My hobbies
 
-<table style="border:hidden;">
- <tr style="border:hidden;">
-    <td><b style="font-size:30px"></b></td>
-    <td><b style="font-size:30px"></b></td>
- </tr>
- <tr>
-    <td>
-        <ul>
-            <li>
-                Cycling & Running
-            </li>
-            <li>
-                Reading
-            </li>
-            <li>
-                Listening Music
-            </li>
-            <li>
-                Walking
-            </li>
-        </ul>
-    </td>
-    <td>
-        <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9976167/activity-summary/c1927cf86e5e1b389373808d4a2d672c745ab2d3'></iframe>
-    </td>
- </tr>
-</table>
+- Cycling & Running
+- Reading
+- Listening Music
+- Walking
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/strava.svg" />][strava]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/garmin.svg" />][garmin]
@@ -100,35 +76,20 @@ Algorithm Practice: [<img height="15" width="15" src="https://cdn.jsdelivr.net/n
 
 - Operating System: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/windows.svg"/>
     - On WSL 2: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/ubuntu.svg"/>
-- Security: <img height="15" width="65" src="https://img.shields.io/badge/Eset-Nod32-green?style=flat-square"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/1password.svg"/>
+- Security: <img height="15" width="65" src="https://img.shields.io/badge/Eset-Nod32-green?style=flat-square"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/1password.svg"/>
 - Music: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/tidal.svg"/>
-- Source Control: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/github.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/git.svg"/>
-- Command Line: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/powershell.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/windowsterminal.svg"/>
-- IDE & Text Editor: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/rider.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/visualstudiocode.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/azuredataexplorer.svg"/>
+- Source Control: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/github.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/git.svg"/>
+- Command Line: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/powershell.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/windowsterminal.svg"/>
+- IDE & Text Editor: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/rider.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/visualstudiocode.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/azuredataexplorer.svg"/>
 - SQL Server: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftsqlserver.svg"/>
 - Prototyping Tool: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/adobexd.svg"/>
 - Cloud Storage: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftonedrive.svg"/>
-- Web Browser: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/googlechrome.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftedge.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/opera.svg"/>
+- Web Browser: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/googlechrome.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftedge.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/opera.svg"/>
 - Recording & Streaming Tool: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/obsstudio.svg"/>
-- Development Tools: <img height="15" width="65" src="https://img.shields.io/badge/Telerik%20-Fiddler-green?style=flat-square"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/postman.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/docker.svg"/>
-<img height="15" width="55" src="https://img.shields.io/badge/HyperV-blue?style=flat-square"/>
-- Office: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftoffice.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/notion.svg"/>
-<img height="15" width="65" src="https://img.shields.io/badge/Amazon%20-Kindle-green?style=flat-square"/>
-- Communication: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftteams.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/discord.svg"/>
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/whatsapp.
+- Development Tools: <img height="15" width="65" src="https://img.shields.io/badge/Telerik%20-Fiddler-green?style=flat-square"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/postman.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/docker.svg"/> <img height="15" width="55" src="https://img.shields.io/badge/HyperV-blue?style=flat-square"/>
+- Office: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftoffice.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/notion.svg"/> <img height="15" width="65" src="https://img.shields.io/badge/Amazon%20-Kindle-green?style=flat-square"/>
+- Communication: <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/microsoftteams.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/discord.svg"/> <img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/whatsapp.
 svg"/>
-
 
 <br />
 
@@ -144,31 +105,24 @@ svg"/>
 
 ## 🗽 Stats
 
-<table style="border:hidden;">
-    <tr style="border:hidden;">
-        <td style="border:hidden;"><b style="font-size:30px"></b></td>
-        <td style="border:hidden;"><b style="font-size:30px"></b></td>
-    </tr>
-    <tr style="border:hidden;">
-        <td style="border:hidden;">
-            <p align="center">
-                <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevcanalkan&theme=vue"/>
-            </p>
-        </td>
-        <td style="border:hidden;">
-            <p align="center">
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sevcanalkan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <p align="center">
-                <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sevcanalkan&theme=vue"/>
-            </p>
-        </td>
-    </tr>
-</table>
+<details>
+    <summary>
+        GitHub Statistics
+    </summary>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sevcanalkan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+</details>
+<details>
+    <summary>
+        Most Used Languages
+    </summary>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevcanalkan&theme=vue"/>
+</details>
+<details>
+    <summary>
+        Wakatime Stats
+    </summary>
+    <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sevcanalkan&theme=vue"/>
+</details>
 
 
 [youtube]: https://www.youtube.com/channel/UCufWUY4x4uA2cxUT99mlLkg
