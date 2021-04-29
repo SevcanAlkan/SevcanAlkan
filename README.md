@@ -176,6 +176,7 @@ svg"/>
     <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sevcanalkan&theme=vue"/>
 </details>
 
+![](https://komarev.com/ghpvc/?username=sevcanalkan&color=blueviolet)
 
 [youtube]: https://www.youtube.com/channel/UCufWUY4x4uA2cxUT99mlLkg
 [pluralsight]: https://app.pluralsight.com/profile/sevcan-alkan
