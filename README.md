@@ -1,8 +1,3 @@
-![SevcanAlkan](https://media-exp1.licdn.com/dms/image/C4D16AQG4kLNqrPXMIw/profile-displaybackgroundimage-shrink_350_1400/0/1593431882821?e=1625097600&v=beta&t=qv4PM8Ar4X6rJtKNxVX4TYUWoREmgJCe8KtWzqKUb1E)
-### Hi <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
-
----
-
 ## I'm a Full Stack .Net Developer
 
 I'm looking a small project to collaborate on 🧐
