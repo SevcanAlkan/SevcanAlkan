@@ -45,8 +45,7 @@ Algorithm Practice: [<img height="15" width="15" src="https://cdn.jsdelivr.net/n
 
 - Cycling & Running
 - Reading
-- Listening Music
-- Walking
+- Archery
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/strava.svg" />][strava]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/garmin.svg" />][garmin]
